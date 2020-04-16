@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite thread-count="1" verbose="1" name="EMR_Backend_status" annotations="JDK" >
+
+    <test name="Aruna_Labs">
+        <classes>
+            <class name="com.BasicAppiumTest.BasicAppiumTest"/>
+        </classes>
+    </test>
+
+
+</suite>
