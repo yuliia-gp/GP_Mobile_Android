@@ -120,6 +120,7 @@ public class BasicAppiumTest {
 
 
 
+
         @AfterTest
         public void tearDown() {
             driver.quit();
